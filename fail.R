@@ -1,7 +1,0 @@
-f <- function() g()
-g <- function() h()
-h <- function() i()
-i <- function() stop("Error")
-
-
-f()
